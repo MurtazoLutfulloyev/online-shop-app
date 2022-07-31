@@ -1,13 +1,13 @@
-package uz.megashop.onlineshopapp.controller;
+package uz.pdp.onlineshopapp.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import uz.megashop.onlineshopapp.dto.ProductDTO;
-import uz.megashop.onlineshopapp.dto.ResponseData;
-import uz.megashop.onlineshopapp.service.ProductService;
+import uz.pdp.onlineshopapp.dto.ProductDTO;
+import uz.pdp.onlineshopapp.dto.ResponseData;
+import uz.pdp.onlineshopapp.service.ProductService;
 
 @RestController
 @RequestMapping("/api/product")

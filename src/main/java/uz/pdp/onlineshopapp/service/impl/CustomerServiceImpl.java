@@ -1,16 +1,14 @@
-package uz.megashop.onlineshopapp.service.impl;
+package uz.pdp.onlineshopapp.service.impl;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import uz.megashop.onlineshopapp.domain.Customer;
-import uz.megashop.onlineshopapp.domain.Role;
-import uz.megashop.onlineshopapp.domain.enums.RolesEnum;
-import uz.megashop.onlineshopapp.repo.CustomerRepository;
-import uz.megashop.onlineshopapp.repo.RoleRepository;
-import uz.megashop.onlineshopapp.service.CustomerService;
+import uz.pdp.onlineshopapp.domain.Customer;
+import uz.pdp.onlineshopapp.domain.Role;
+import uz.pdp.onlineshopapp.repo.CustomerRepository;
+import uz.pdp.onlineshopapp.repo.RoleRepository;
+import uz.pdp.onlineshopapp.service.CustomerService;
 
 import java.util.List;
 

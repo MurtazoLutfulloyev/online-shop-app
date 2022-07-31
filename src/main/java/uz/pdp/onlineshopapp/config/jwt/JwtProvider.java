@@ -1,7 +1,5 @@
-package uz.megashop.onlineshopapp.config.jwt;
+package uz.pdp.onlineshopapp.config.jwt;
 
-
-import org.springframework.security.config.web.server.ServerHttpSecurity;
 
 public class JwtProvider {
 

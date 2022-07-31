@@ -1,9 +1,9 @@
-package uz.megashop.onlineshopapp.domain;
+package uz.pdp.onlineshopapp.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import uz.megashop.onlineshopapp.domain.enums.RolesEnum;
+import uz.pdp.onlineshopapp.domain.enums.RolesEnum;
 
 import javax.persistence.*;
 import java.util.List;

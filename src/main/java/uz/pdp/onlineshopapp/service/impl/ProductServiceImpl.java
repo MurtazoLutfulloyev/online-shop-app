@@ -1,13 +1,14 @@
-package uz.megashop.onlineshopapp.service.impl;
+package uz.pdp.onlineshopapp.service.impl;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import uz.megashop.onlineshopapp.domain.Product;
-import uz.megashop.onlineshopapp.dto.ProductDTO;
-import uz.megashop.onlineshopapp.dto.ResponseData;
-import uz.megashop.onlineshopapp.repo.ProductRepository;
-import uz.megashop.onlineshopapp.service.ProductService;
+import uz.pdp.onlineshopapp.domain.Product;
+import uz.pdp.onlineshopapp.dto.ResponseData;
+import uz.pdp.onlineshopapp.service.ProductService;
+import uz.pdp.onlineshopapp.dto.ProductDTO;
+import uz.pdp.onlineshopapp.repo.ProductRepository;
+import uz.pdp.onlineshopapp.service.ProductService;
 
 import java.time.LocalDateTime;
 

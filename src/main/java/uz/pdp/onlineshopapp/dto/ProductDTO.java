@@ -1,8 +1,8 @@
-package uz.megashop.onlineshopapp.dto;
+package uz.pdp.onlineshopapp.dto;
 
 import lombok.Data;
-import uz.megashop.onlineshopapp.domain.AttachmentContent;
-import uz.megashop.onlineshopapp.domain.Discount;
+import uz.pdp.onlineshopapp.domain.AttachmentContent;
+import uz.pdp.onlineshopapp.domain.Discount;
 
 @Data
 public class ProductDTO {

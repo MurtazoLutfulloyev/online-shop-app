@@ -1,4 +1,4 @@
-package uz.megashop.onlineshopapp.dto;
+package uz.pdp.onlineshopapp.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;

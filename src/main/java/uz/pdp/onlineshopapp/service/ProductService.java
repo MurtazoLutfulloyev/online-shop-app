@@ -1,9 +1,9 @@
-package uz.megashop.onlineshopapp.service;
+package uz.pdp.onlineshopapp.service;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import uz.megashop.onlineshopapp.dto.ProductDTO;
-import uz.megashop.onlineshopapp.dto.ResponseData;
+import uz.pdp.onlineshopapp.dto.ProductDTO;
+import uz.pdp.onlineshopapp.dto.ResponseData;
 
 @Service
 public interface ProductService {

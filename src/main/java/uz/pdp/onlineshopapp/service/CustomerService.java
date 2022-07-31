@@ -1,9 +1,8 @@
-package uz.megashop.onlineshopapp.service;
+package uz.pdp.onlineshopapp.service;
 
 import org.springframework.stereotype.Service;
-import uz.megashop.onlineshopapp.domain.Customer;
-import uz.megashop.onlineshopapp.domain.Role;
-import uz.megashop.onlineshopapp.domain.enums.RolesEnum;
+import uz.pdp.onlineshopapp.domain.Customer;
+import uz.pdp.onlineshopapp.domain.Role;
 
 import java.util.List;
 

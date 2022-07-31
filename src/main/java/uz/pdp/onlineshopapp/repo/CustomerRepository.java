@@ -1,11 +1,8 @@
-package uz.megashop.onlineshopapp.repo;
+package uz.pdp.onlineshopapp.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import uz.megashop.onlineshopapp.domain.Customer;
-import uz.megashop.onlineshopapp.domain.enums.RolesEnum;
-
-import java.util.List;
+import uz.pdp.onlineshopapp.domain.Customer;
 
 @Repository
 public interface CustomerRepository extends JpaRepository<Customer, Long> {

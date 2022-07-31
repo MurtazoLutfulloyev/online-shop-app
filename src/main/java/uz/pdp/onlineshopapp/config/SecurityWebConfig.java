@@ -1,4 +1,4 @@
-package uz.megashop.onlineshopapp.config;
+package uz.pdp.onlineshopapp.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.access.annotation.Secured;

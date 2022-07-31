@@ -1,4 +1,4 @@
-package uz.megashop.onlineshopapp.domain;
+package uz.pdp.onlineshopapp.domain;
 
 import com.sun.istack.NotNull;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package uz.megashop.onlineshopapp.domain.enums;
+package uz.pdp.onlineshopapp.domain.enums;
 
 public enum RolesEnum {
 

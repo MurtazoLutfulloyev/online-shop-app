@@ -1,4 +1,4 @@
-package uz.megashop.onlineshopapp.service;
+package uz.pdp.onlineshopapp.service;
 
 import org.springframework.stereotype.Service;
 @Service

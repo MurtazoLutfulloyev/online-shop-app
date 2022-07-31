@@ -5,10 +5,9 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-import uz.megashop.onlineshopapp.domain.Customer;
-import uz.megashop.onlineshopapp.domain.Role;
-import uz.megashop.onlineshopapp.dto.ResponseData;
-import uz.megashop.onlineshopapp.service.CustomerService;
+import uz.pdp.onlineshopapp.domain.Customer;
+import uz.pdp.onlineshopapp.domain.Role;
+import uz.pdp.onlineshopapp.service.CustomerService;
 
 import java.net.URI;
 import java.util.List;
